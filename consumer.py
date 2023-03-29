@@ -2,7 +2,7 @@ from confluent_kafka.avro import AvroConsumer
 from google.cloud import bigquery
 import os 
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/Workspace/Avro/AvroSchema-Kafka-BigQuery-master/credential/datafellowship-381910-dcef4670fdfd.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/Workspace/Avro/AvroSchema-Kafka-BigQuery-master/credential/blablabla.json"
 
 dataset_name = 'Bitcoin'
 table_name = 'stream_Bitcoin_price_2017'
