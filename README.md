@@ -15,8 +15,7 @@ Creating **Avro Producer** and **Avro Consumer** using the bitcoin_price_Trainin
 
 5. Run the consumer via python in the directory that store the file. We can check the data via Big Query if its already loaded or not,
    ![bitcoin bigquery](https://user-images.githubusercontent.com/124119569/228621016-ace86901-81ac-42ac-b564-754b65ead0c0.jpg)
-   
-**note:** We should create google credential first so we can load the dataset into Big Query.
+   **NOTE:** We should create google credential first so we can load the dataset into Big Query.
 
 6. We can monitor what happen via Confluent Kafka,
    - The topic we deployed (**practice_bitcoin_price_Training**),
