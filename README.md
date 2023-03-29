@@ -1,4 +1,4 @@
-# Kafka-Schema-Registry-and-Avro
+# Kafka Schema Registry and Avro
 Creating **Avro Producer** and **Avro Consumer** using the bitcoin_price_Training dataset and load it to Google BigQuery.
 ## Tech Stack
 - Avro
